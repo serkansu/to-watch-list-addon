@@ -4,8 +4,8 @@ const fs = require("fs");
 const builder = new addonBuilder({
   id: "org.serkan.to-watch-list",
   version: "1.0.0",
-  name: "To-Watch List Addon",
-  description: "Serkan's personal movie & TV show list served as a Stremio addon.",
+  name: "🍿 Serkan's To-Watch Addon",
+  description: "Serkan's personal movie & series watchlist served as a Stremio addon.",
   logo: "https://i.imgur.com/YO5Gv3I.png",
   resources: ["catalog"],
   types: ["movie", "series"],
@@ -26,12 +26,14 @@ const builder = new addonBuilder({
 function getItemsFromFile(filename) {
   try {
     const raw = fs.readFileSync(filename);
-    return JSON.parse(raw).map(item => ({
-      id: item.id || item.imdb_id || item.title,
-      type: item.type || "movie",
+    const data = JSON.parse(raw);
+
+    return Object.entries(data).map(([key, item]) => ({
+      id: key,
+      type: filename.includes("shows") ? "series" : "movie",
       name: item.title,
       poster: item.poster,
-      description: `${item.year || ""} - IMDb: ${item.imdb || "N/A"} | RT: ${item.rt || "N/A"}`,
+      description: `${item.year || ""} - IMDb: ${item.imdbRating || "N/A"} | RT: ${item.rtRating || "N/A"}`
     }));
   } catch (err) {
     console.error(`❌ Error loading ${filename}:`, err.message);
