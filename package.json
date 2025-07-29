@@ -1,0 +1,17 @@
+{
+  "name": "to-watch-list-addon",
+  "version": "1.0.0",
+  "description": "Stremio Addon for Serkan's To-Watch Movie and Series List",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["stremio", "addon", "watchlist", "serkan"],
+  "author": "serkan",
+  "license": "MIT",
+  "dependencies": {
+    "stremio-addon-sdk": "1.6.10"
+  },
+  "devDependencies": {}
+}
