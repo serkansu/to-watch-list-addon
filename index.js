@@ -1,4 +1,4 @@
-const { addonBuilder } = require("stremio-addon-sdk");
+const { addonBuilder, serveHTTP } = require("stremio-addon-sdk");
 const fs = require("fs");
 
 const builder = new addonBuilder({
@@ -51,4 +51,5 @@ builder.defineCatalogHandler(({ type, id }) => {
   }
 });
 
-module.exports = builder.getInterface();
+// 🔥 Sunucuyu başlat
+serveHTTP(builder.getInterface(), { port: process.env.PORT || 7000 });
