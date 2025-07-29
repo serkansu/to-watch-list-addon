@@ -1,4 +1,4 @@
-const { addonBuilder, serveHTTP } = require("stremio-addon-sdk");
+const { addonBuilder } = require("stremio-addon-sdk");
 const fs = require("fs");
 
 const builder = new addonBuilder({
@@ -13,12 +13,12 @@ const builder = new addonBuilder({
     {
       type: "movie",
       id: "serkans-watchlist-movies",
-      name: "Serkan's Movie List"
+      name: "🍿 Serkan's To-Watch Movies"
     },
     {
       type: "series",
       id: "serkans-watchlist-shows",
-      name: "Serkan's Series List"
+      name: "🍿 Serkan's To-Watch Series"
     }
   ]
 });
@@ -51,5 +51,4 @@ builder.defineCatalogHandler(({ type, id }) => {
   }
 });
 
-// 🔥 Sunucuyu başlat
-serveHTTP(builder.getInterface(), { port: process.env.PORT || 7000 });
+module.exports = builder.getInterface();
