@@ -1,26 +1,74 @@
 {
-  "tt0411008": {
+  "318": {
     "imdbRating": "N/A",
-    "poster": "https://image.tmdb.org/t/p/w500/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
-    "priority": 48,
+    "poster": "https://image.tmdb.org/t/p/w500/iGRyPsZF0lfIL3IadmBdoAsYzyn.jpg",
+    "priority": 50,
     "rtRating": "N/A",
+    "title": "The Million Dollar Hotel",
+    "year": "2000"
+  },
+  "236691": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/4tR8e5lhVArI7W2fNqyfQ9o8BEg.jpg",
+    "priority": 49,
+    "rtRating": "N/A",
+    "title": "Ren & Stimpy: The Lost Episodes",
+    "year": "2003"
+  },
+  "822099": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/nVXECwOa4g5ZHND6dOxXjQ5bbpT.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "The Lost Leonardo",
+    "year": "2021"
+  },
+  "nm0671567": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/eLf4jclPijOqfEp6bDAmezRFxk5.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Romeo + Juliet",
+    "year": "1996"
+  },
+  "nm0881631": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/vL0TSMpKWx9UGJbKdYCKREEDukF.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Blood Diamond",
+    "year": "2006"
+  },
+  "tt0236450": {
+    "imdbRating": "6.8",
+    "poster": "https://image.tmdb.org/t/p/w500/o7ioUtTuyaPhhgQi3nrBQapCVfw.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Lost Universe",
+    "year": "1998"
+  },
+  "tt0292816": {
+    "imdbRating": "7.4",
+    "poster": "https://image.tmdb.org/t/p/w500/58IGb9sLVc2LPFACaTZxX11Raoi.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Lost",
+    "year": "2001"
+  },
+  "tt0411008": {
+    "imdbRating": "8.3",
+    "poster": "https://image.tmdb.org/t/p/w500/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
+    "priority": 83,
+    "rtRating": "80%",
     "title": "Lost",
     "year": "2004"
   },
-  "tt2152368": {
-    "imdbRating": "N/A",
-    "poster": "https://image.tmdb.org/t/p/w500/eJNAxUHVXXUSbuc6D1ojSYH6S1r.jpg",
-    "priority": 47,
-    "rtRating": "N/A",
-    "title": "Saint Seiya: The Lost Canvas",
-    "year": "2009"
-  },
-  "tt3581920": {
-    "imdbRating": "N/A",
-    "poster": "https://image.tmdb.org/t/p/w500/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
+  "tt1828327": {
+    "imdbRating": "7.5",
+    "poster": "https://image.tmdb.org/t/p/w500/ofUvbcwxcA0E7qYUlhBx4gZmAzX.jpg",
     "priority": 50,
     "rtRating": "N/A",
-    "title": "The Last of Us",
-    "year": "2023"
+    "title": "Last Man Standing",
+    "year": "2011"
   }
 }
