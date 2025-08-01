@@ -1,18 +1,26 @@
 {
+  "tt0185906": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/8JMXquNmdMUy2n2RgW8gfOM0O3l.jpg",
+    "priority": 10,
+    "rtRating": "N/A",
+    "title": "Band of Brothers",
+    "year": "2001"
+  },
+  "tt14379784": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/idKszwiEpFEW0bBr44HBQXAwzZo.jpg",
+    "priority": 7,
+    "rtRating": "N/A",
+    "title": "The Devil's Hour",
+    "year": "2022"
+  },
   "tt16294384": {
     "imdbRating": "N/A",
     "poster": "https://image.tmdb.org/t/p/w500/6TdW4T2EsnhXrPQccB8szK93UhF.jpg",
     "priority": 13,
     "rtRating": "N/A",
     "title": "Disclaimer",
-    "year": "2024"
-  },
-  "tt17677860": {
-    "imdbRating": "N/A",
-    "poster": "https://image.tmdb.org/t/p/w500/7MXg0BxuSRWz2yKc03M40du2mrc.jpg",
-    "priority": 15,
-    "rtRating": "N/A",
-    "title": "Presumed Innocent",
     "year": "2024"
   },
   "tt19231492": {
@@ -22,6 +30,14 @@
     "rtRating": "N/A",
     "title": "Dark Matter",
     "year": "2024"
+  },
+  "tt2628232": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/hQSdrXBYTbLGHYDIseHkBOPXTgL.jpg",
+    "priority": 9,
+    "rtRating": "N/A",
+    "title": "Penny Dreadful",
+    "year": "2014"
   },
   "tt4301160": {
     "imdbRating": "N/A",
@@ -38,5 +54,21 @@
     "rtRating": "N/A",
     "title": "Slow Horses",
     "year": "2022"
+  },
+  "tt7137906": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/oPv3nNtkuc6EPEql5lgdOuQNHuG.jpg",
+    "priority": 8,
+    "rtRating": "N/A",
+    "title": "When They See Us",
+    "year": "2019"
+  },
+  "tt9698442": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/sfd90NIf778KoBFmpdBTow4xTm7.jpg",
+    "priority": 6,
+    "rtRating": "N/A",
+    "title": "Behind Her Eyes",
+    "year": "2021"
   }
 }
