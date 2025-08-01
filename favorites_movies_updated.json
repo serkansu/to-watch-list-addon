@@ -23,6 +23,14 @@
     "title": "Lost",
     "year": "1956"
   },
+  "tt0103874": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/n39glC4GkBeCbwdenES8ZBodim8.jpg",
+    "priority": 77,
+    "rtRating": "N/A",
+    "title": "Bram Stoker's Dracula",
+    "year": "1992"
+  },
   "tt0120620": {
     "imdbRating": "N/A",
     "poster": "https://image.tmdb.org/t/p/w500/pWxoggA0KCS5oMPDOjIDYZYzryE.jpg",
@@ -54,6 +62,14 @@
     "rtRating": "N/A",
     "title": "Shopgirl",
     "year": "2005"
+  },
+  "tt0353969": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/jcgUjx1QcupGzjntTVlnQ15lHqy.jpg",
+    "priority": 80,
+    "rtRating": "N/A",
+    "title": "Memories of Murder",
+    "year": "2003"
   },
   "tt0473356": {
     "imdbRating": "N/A",
@@ -87,6 +103,14 @@
     "title": "Temple Grandin",
     "year": "2010"
   },
+  "tt13397574": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/6EtPToJlGpjyuIxkIoztnBXYFgJ.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Mothers' Instinct",
+    "year": "2024"
+  },
   "tt1430122": {
     "imdbRating": "7.7",
     "poster": "https://image.tmdb.org/t/p/w500/rb0tqV7FxHECv2cRW8H8DJ5RhtP.jpg",
@@ -94,6 +118,22 @@
     "rtRating": "N/A",
     "title": "The Curious Birth of Benjamin Button",
     "year": "2009"
+  },
+  "tt1446714": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/m7nZCtHJyDLncBUarfM5h5mrppx.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Prometheus",
+    "year": "2012"
+  },
+  "tt15085784": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/2sfmqtBvCvI9s3uMRLTLMo6QtVi.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Memories of a Murderer: The Nilsen Tapes",
+    "year": "2021"
   },
   "tt1697643": {
     "imdbRating": "6.9",
@@ -111,6 +151,14 @@
     "title": "Mel Gibson: A Tormented Soul",
     "year": "2022"
   },
+  "tt24871974": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/gBenxR01Uy0Ev9RTIw6dVBPoyQU.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Subservience",
+    "year": "2024"
+  },
   "tt26927447": {
     "imdbRating": "N/A",
     "poster": "https://image.tmdb.org/t/p/w500/4IB8TefDgdAmoxXAPaR2li1y8yz.jpg",
@@ -118,5 +166,29 @@
     "rtRating": "N/A",
     "title": "Momento",
     "year": ""
+  },
+  "tt29141112": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/ycoXsJomPmPjtCfNweM0UWiTkPY.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "The Devil's Bath",
+    "year": "2024"
+  },
+  "tt30253473": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Materialists",
+    "year": "2025"
+  },
+  "tt7377132": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/6DQP8vQamep9MGCMfH3u7NlyREN.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Mothers' Instinct",
+    "year": "2019"
   }
 }
