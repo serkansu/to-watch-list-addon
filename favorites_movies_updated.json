@@ -1,4 +1,12 @@
 {
+  "tt0010208": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/xDXMUdERs3uFtgO8P5J5WyWT554.jpg",
+    "priority": 46,
+    "rtRating": "N/A",
+    "title": "Harakiri",
+    "year": "1919"
+  },
   "tt0030625": {
     "imdbRating": "6.1",
     "poster": "https://image.tmdb.org/t/p/w500/jSeX7De6WLd1sLh7USH0GVctyH8.jpg",
@@ -47,14 +55,6 @@
     "title": "Shopgirl",
     "year": "2005"
   },
-  "tt0404203": {
-    "imdbRating": "N/A",
-    "poster": "https://image.tmdb.org/t/p/w500/l2wTSP0Ifo9vY03nJEfkFBbT2S9.jpg",
-    "priority": 16,
-    "rtRating": "N/A",
-    "title": "Little Children",
-    "year": "2006"
-  },
   "tt0473356": {
     "imdbRating": "N/A",
     "poster": "https://image.tmdb.org/t/p/w500/baGgc6giS6kMBnsNbwH6WuybXn5.jpg",
@@ -70,6 +70,14 @@
     "rtRating": "N/A",
     "title": "Evening",
     "year": "2007"
+  },
+  "tt0816442": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/wj4U5sMLcJMa3WR9CpRR9e2sdgZ.jpg",
+    "priority": 6,
+    "rtRating": "N/A",
+    "title": "The Book Thief",
+    "year": "2013"
   },
   "tt1278469": {
     "imdbRating": "N/A",
@@ -94,6 +102,14 @@
     "rtRating": "N/A",
     "title": "Momentos",
     "year": "2010"
+  },
+  "tt21416896": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/m9ZJYi8HkqWJhiD2EVrjGu4DSFh.jpg",
+    "priority": 14,
+    "rtRating": "N/A",
+    "title": "Mel Gibson: A Tormented Soul",
+    "year": "2022"
   },
   "tt26927447": {
     "imdbRating": "N/A",
