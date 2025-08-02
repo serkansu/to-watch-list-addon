@@ -1,4 +1,12 @@
 {
+  "1298628": {
+    "imdbRating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w500/nT0vAGkdq0Gm066Eac4dz05bf9A.jpg",
+    "priority": 50,
+    "rtRating": 0,
+    "title": "Nocturnal Animals",
+    "year": "2024"
+  },
   "tt0010208": {
     "imdbRating": "N/A",
     "poster": "https://image.tmdb.org/t/p/w500/xDXMUdERs3uFtgO8P5J5WyWT554.jpg",
@@ -95,6 +103,14 @@
     "title": "The Book Thief",
     "year": "2013"
   },
+  "tt1179933": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/84Dhwz93vCin6T1PX6ctSvWEuNE.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "10 Cloverfield Lane",
+    "year": "2016"
+  },
   "tt1278469": {
     "imdbRating": "N/A",
     "poster": "https://image.tmdb.org/t/p/w500/gQhQ6yEkUkDDo1zugpq46PJN8xZ.jpg",
@@ -183,6 +199,30 @@
     "title": "Materialists",
     "year": "2025"
   },
+  "tt4006302": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/glVIjhLmzmgtppLWb3lvnoPljGW.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Level 16",
+    "year": "2018"
+  },
+  "tt4550098": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/mdLDgQBD0va09npSQX5Zgo2evXM.jpg",
+    "priority": 2,
+    "rtRating": "N/A",
+    "title": "Nocturnal Animals",
+    "year": "2016"
+  },
+  "tt5886046": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/8Ls1tZ6qjGzfGHjBB7ihOnf7f0b.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Escape Room",
+    "year": "2019"
+  },
   "tt7377132": {
     "imdbRating": "N/A",
     "poster": "https://image.tmdb.org/t/p/w500/6DQP8vQamep9MGCMfH3u7NlyREN.jpg",
@@ -190,5 +230,21 @@
     "rtRating": "N/A",
     "title": "Mothers' Instinct",
     "year": "2019"
+  },
+  "tt8633478": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/ilHG4EayOVoYeKqslspY3pR4wzC.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Run",
+    "year": "2020"
+  },
+  "tt9639470": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/n1ZRmjlk1BJTY7aASqACfPAaLn2.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Last Night in Soho",
+    "year": "2021"
   }
 }
