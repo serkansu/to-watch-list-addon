@@ -1,4 +1,12 @@
 {
+  "1125055": {
+    "imdbRating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w500/aF6thtdNObk3VLtfEDd820tdVDb.jpg",
+    "priority": 50,
+    "rtRating": 0,
+    "title": "Scream",
+    "year": "1997"
+  },
   "1298628": {
     "imdbRating": 0.0,
     "poster": "https://image.tmdb.org/t/p/w500/nT0vAGkdq0Gm066Eac4dz05bf9A.jpg",
@@ -31,6 +39,14 @@
     "title": "Lost",
     "year": "1956"
   },
+  "tt0054215": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Psycho",
+    "year": "1960"
+  },
   "tt0103874": {
     "imdbRating": "N/A",
     "poster": "https://image.tmdb.org/t/p/w500/n39glC4GkBeCbwdenES8ZBodim8.jpg",
@@ -39,6 +55,14 @@
     "title": "Bram Stoker's Dracula",
     "year": "1992"
   },
+  "tt0117571": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Scream",
+    "year": "1996"
+  },
   "tt0120620": {
     "imdbRating": "N/A",
     "poster": "https://image.tmdb.org/t/p/w500/pWxoggA0KCS5oMPDOjIDYZYzryE.jpg",
@@ -46,6 +70,14 @@
     "rtRating": "N/A",
     "title": "Brokedown Palace",
     "year": "1999"
+  },
+  "tt0245674": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/6yrrddjIjx0ElCRZp5pTZeqrj3k.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Thir13en Ghosts",
+    "year": "2001"
   },
   "tt0246578": {
     "imdbRating": "8.0",
@@ -71,6 +103,14 @@
     "title": "Shopgirl",
     "year": "2005"
   },
+  "tt0338526": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/gsFun8nATm52aGHeT8ueAel98nE.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Van Helsing",
+    "year": "2004"
+  },
   "tt0353969": {
     "imdbRating": "N/A",
     "poster": "https://image.tmdb.org/t/p/w500/jcgUjx1QcupGzjntTVlnQ15lHqy.jpg",
@@ -78,6 +118,22 @@
     "rtRating": "N/A",
     "title": "Memories of Murder",
     "year": "2003"
+  },
+  "tt0377109": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/bHbz7z2pecTawhkqLpuC2m0qywe.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "The Ring Two",
+    "year": "2005"
+  },
+  "tt0418819": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/xxp0qcZ3n2YA53SIzWilDSfIaA4.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Land of the Dead",
+    "year": "2005"
   },
   "tt0473356": {
     "imdbRating": "N/A",
@@ -95,6 +151,14 @@
     "title": "Evening",
     "year": "2007"
   },
+  "tt0780653": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/fQqPoAHvHicie1ttuiV2q0yv9V7.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "The Wolfman",
+    "year": "2010"
+  },
   "tt0816442": {
     "imdbRating": "N/A",
     "poster": "https://image.tmdb.org/t/p/w500/wj4U5sMLcJMa3WR9CpRR9e2sdgZ.jpg",
@@ -103,6 +167,54 @@
     "title": "The Book Thief",
     "year": "2013"
   },
+  "tt0829150": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/xJJFZ7tYASyQ7rNOLTrb2JpDc7A.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Dracula Untold",
+    "year": "2014"
+  },
+  "tt0837563": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/7SPhr7Qj39vbnfF9O2qHRYaKHAL.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Pet Sematary",
+    "year": "2019"
+  },
+  "tt10160976": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "The Nun II",
+    "year": "2023"
+  },
+  "tt1029360": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/jBXupXZ7WEPUpkYFpkQsdipwBQn.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Poltergeist",
+    "year": "2015"
+  },
+  "tt11668530": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/9a7URTaq1Eimlg2ZujPX9FdOeGK.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Anaconda",
+    "year": "2024"
+  },
+  "tt11760970": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/9aUzYRFquwcITAMjn5SNXEFtGvz.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "The Watchers",
+    "year": "2021"
+  },
   "tt1179933": {
     "imdbRating": "N/A",
     "poster": "https://image.tmdb.org/t/p/w500/84Dhwz93vCin6T1PX6ctSvWEuNE.jpg",
@@ -110,6 +222,14 @@
     "rtRating": "N/A",
     "title": "10 Cloverfield Lane",
     "year": "2016"
+  },
+  "tt11866324": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/h58U7d1OZyuWaCWMYvw4mfnv6H3.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Prey",
+    "year": "2022"
   },
   "tt1278469": {
     "imdbRating": "N/A",
@@ -127,13 +247,21 @@
     "title": "Mothers' Instinct",
     "year": "2024"
   },
-  "tt1430122": {
-    "imdbRating": "7.7",
-    "poster": "https://image.tmdb.org/t/p/w500/rb0tqV7FxHECv2cRW8H8DJ5RhtP.jpg",
+  "tt13405778": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/d07phJqCx6z5wILDYqkyraorDPi.jpg",
     "priority": 50,
     "rtRating": "N/A",
-    "title": "The Curious Birth of Benjamin Button",
-    "year": "2009"
+    "title": "Insidious: The Red Door",
+    "year": "2023"
+  },
+  "tt14088510": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/gAEUXC37vl1SnM7PXsHTF23I2vq.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Tarot",
+    "year": "2024"
   },
   "tt1446714": {
     "imdbRating": "N/A",
@@ -142,6 +270,14 @@
     "rtRating": "N/A",
     "title": "Prometheus",
     "year": "2012"
+  },
+  "tt1457767": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "The Conjuring",
+    "year": "2013"
   },
   "tt15085784": {
     "imdbRating": "N/A",
@@ -159,6 +295,38 @@
     "title": "Momentos",
     "year": "2010"
   },
+  "tt17526714": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/q6HjZlvyKxYmhlRhnnxeyudzK9A.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "The Substance",
+    "year": "2024"
+  },
+  "tt1922777": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/nzx10sca3arCeYBAomHan4Q6wa1.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Sinister",
+    "year": "2012"
+  },
+  "tt1939659": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/kloXz9qwO23z9Kbt3z3MgnjF4xO.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Carrie",
+    "year": "2013"
+  },
+  "tt2023587": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/eo8BhR8Q5STmWE9sMLsEPagxmy6.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Mama",
+    "year": "2013"
+  },
   "tt21416896": {
     "imdbRating": "N/A",
     "poster": "https://image.tmdb.org/t/p/w500/m9ZJYi8HkqWJhiD2EVrjGu4DSFh.jpg",
@@ -166,6 +334,14 @@
     "rtRating": "N/A",
     "title": "Mel Gibson: A Tormented Soul",
     "year": "2022"
+  },
+  "tt23137390": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/zyopv7D5j7cfswG0NYiA14qAdPC.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Immaculate",
+    "year": "2024"
   },
   "tt24871974": {
     "imdbRating": "N/A",
@@ -199,6 +375,22 @@
     "title": "Materialists",
     "year": "2025"
   },
+  "tt3195644": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/iDdGfdNvY1EX0uDdA4Ru77fwMfc.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Insidious: Chapter 3",
+    "year": "2015"
+  },
+  "tt3322940": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/yLsuU2P2SpDYFwtZQ7dtfVAf6TE.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Annabelle",
+    "year": "2014"
+  },
   "tt4006302": {
     "imdbRating": "N/A",
     "poster": "https://image.tmdb.org/t/p/w500/glVIjhLmzmgtppLWb3lvnoPljGW.jpg",
@@ -206,6 +398,22 @@
     "rtRating": "N/A",
     "title": "Level 16",
     "year": "2018"
+  },
+  "tt4196566": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/og1FteMFRInoQnlZeWqEn8XpXHh.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "The Deliverance",
+    "year": "2024"
+  },
+  "tt4361050": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/gwynHc2RrOFaplYMMpQRpr3TIA4.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Ouija: Origin of Evil",
+    "year": "2016"
   },
   "tt4550098": {
     "imdbRating": "N/A",
@@ -215,6 +423,30 @@
     "title": "Nocturnal Animals",
     "year": "2016"
   },
+  "tt4786282": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/8BnElzAQQpp7ZgdJJiAe1diomr4.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Lights Out",
+    "year": "2016"
+  },
+  "tt5140878": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Annabelle: Creation",
+    "year": "2017"
+  },
+  "tt5726086": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/nb9fc9INMg8kQ8L7sE7XTNsZnUX.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Insidious: The Last Key",
+    "year": "2018"
+  },
   "tt5886046": {
     "imdbRating": "N/A",
     "poster": "https://image.tmdb.org/t/p/w500/8Ls1tZ6qjGzfGHjBB7ihOnf7f0b.jpg",
@@ -222,6 +454,14 @@
     "rtRating": "N/A",
     "title": "Escape Room",
     "year": "2019"
+  },
+  "tt6644200": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "A Quiet Place",
+    "year": "2018"
   },
   "tt7377132": {
     "imdbRating": "N/A",
@@ -231,6 +471,14 @@
     "title": "Mothers' Instinct",
     "year": "2019"
   },
+  "tt8350360": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/qWsHMrbg9DsBY3bCMk9jyYCRVRs.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Annabelle Comes Home",
+    "year": "2019"
+  },
   "tt8633478": {
     "imdbRating": "N/A",
     "poster": "https://image.tmdb.org/t/p/w500/ilHG4EayOVoYeKqslspY3pR4wzC.jpg",
@@ -238,6 +486,14 @@
     "rtRating": "N/A",
     "title": "Run",
     "year": "2020"
+  },
+  "tt9544468": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/gNE1gFe80NX5jdY2Q5WOlgN8VcY.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Deliverance: The Making of Kingdom Come",
+    "year": "2018"
   },
   "tt9639470": {
     "imdbRating": "N/A",
