@@ -10,7 +10,7 @@
   "1298628": {
     "imdbRating": 0.0,
     "poster": "https://image.tmdb.org/t/p/w500/nT0vAGkdq0Gm066Eac4dz05bf9A.jpg",
-    "priority": 50,
+    "priority": 1,
     "rtRating": 0,
     "title": "Nocturnal Animals",
     "year": "2024"
@@ -18,7 +18,7 @@
   "tt0010208": {
     "imdbRating": "N/A",
     "poster": "https://image.tmdb.org/t/p/w500/xDXMUdERs3uFtgO8P5J5WyWT554.jpg",
-    "priority": 46,
+    "priority": 50,
     "rtRating": "N/A",
     "title": "Harakiri",
     "year": "1919"
@@ -47,6 +47,14 @@
     "title": "Psycho",
     "year": "1960"
   },
+  "tt0062622": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "2001: A Space Odyssey",
+    "year": "1968"
+  },
   "tt0103874": {
     "imdbRating": "N/A",
     "poster": "https://image.tmdb.org/t/p/w500/n39glC4GkBeCbwdenES8ZBodim8.jpg",
@@ -54,6 +62,14 @@
     "rtRating": "N/A",
     "title": "Bram Stoker's Dracula",
     "year": "1992"
+  },
+  "tt0117333": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/roUYK9EXmgyDO48Qje7rZI4Qgav.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Phenomenon",
+    "year": "1996"
   },
   "tt0117571": {
     "imdbRating": "N/A",
@@ -231,6 +247,14 @@
     "title": "Prey",
     "year": "2022"
   },
+  "tt1189340": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/gOn8Ve9Yi8fxjRkmLr5BZoOc7KV.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "The Lincoln Lawyer",
+    "year": "2011"
+  },
   "tt1278469": {
     "imdbRating": "N/A",
     "poster": "https://image.tmdb.org/t/p/w500/gQhQ6yEkUkDDo1zugpq46PJN8xZ.jpg",
@@ -294,6 +318,14 @@
     "rtRating": "N/A",
     "title": "Momentos",
     "year": "2010"
+  },
+  "tt1745960": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+    "priority": 50,
+    "rtRating": "N/A",
+    "title": "Top Gun: Maverick",
+    "year": "2022"
   },
   "tt17526714": {
     "imdbRating": "N/A",
