@@ -55,6 +55,14 @@
     "title": "2001: A Space Odyssey",
     "year": "1968"
   },
+  "tt0099685": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+    "priority": 83,
+    "rtRating": "N/A",
+    "title": "GoodFellas",
+    "year": "1990"
+  },
   "tt0103874": {
     "imdbRating": "N/A",
     "poster": "https://image.tmdb.org/t/p/w500/n39glC4GkBeCbwdenES8ZBodim8.jpg",
@@ -86,6 +94,14 @@
     "rtRating": "N/A",
     "title": "Brokedown Palace",
     "year": "1999"
+  },
+  "tt0162222": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/7lLJgKnAicAcR5UEuo8xhSMj18w.jpg",
+    "priority": 75,
+    "rtRating": "N/A",
+    "title": "Cast Away",
+    "year": "2000"
   },
   "tt0245674": {
     "imdbRating": "N/A",
@@ -215,6 +231,22 @@
     "title": "Poltergeist",
     "year": "2015"
   },
+  "tt10366460": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/BzVjmm8l23rPsijLiNLUzuQtyd.jpg",
+    "priority": 91,
+    "rtRating": "N/A",
+    "title": "CODA",
+    "year": "2021"
+  },
+  "tt11127680": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/kdkk7OBnIL1peW2zwcAAp6O54Jo.jpg",
+    "priority": 91,
+    "rtRating": "N/A",
+    "title": "Boiling Point",
+    "year": "2021"
+  },
   "tt11668530": {
     "imdbRating": "N/A",
     "poster": "https://image.tmdb.org/t/p/w500/9a7URTaq1Eimlg2ZujPX9FdOeGK.jpg",
@@ -335,6 +367,14 @@
     "title": "The Substance",
     "year": "2024"
   },
+  "tt1853728": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+    "priority": 84,
+    "rtRating": "N/A",
+    "title": "Django Unchained",
+    "year": "2012"
+  },
   "tt1922777": {
     "imdbRating": "N/A",
     "poster": "https://image.tmdb.org/t/p/w500/nzx10sca3arCeYBAomHan4Q6wa1.jpg",
@@ -358,6 +398,14 @@
     "rtRating": "N/A",
     "title": "Mama",
     "year": "2013"
+  },
+  "tt21261712": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/xHQEeUT3Ac4fTY72UeNrI75xLtE.jpg",
+    "priority": 95,
+    "rtRating": "N/A",
+    "title": "Back to Black",
+    "year": "2024"
   },
   "tt21416896": {
     "imdbRating": "N/A",
@@ -486,6 +534,14 @@
     "rtRating": "N/A",
     "title": "Escape Room",
     "year": "2019"
+  },
+  "tt5934296": {
+    "imdbRating": "N/A",
+    "poster": "https://image.tmdb.org/t/p/w500/cIPFWz12EKoepVzzlNaFaBb961n.jpg",
+    "priority": 7,
+    "rtRating": "N/A",
+    "title": "Price of a Married Woman: Perfume of Desires",
+    "year": "2001"
   },
   "tt6644200": {
     "imdbRating": "N/A",
